@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there world!👋 I'm a senior web-developer and small working group tech-lead in one large russian IT-company [\*](https://tensor.ru/)
+
+> My hobby is open-source web development, which is what my activity in the GitHub community is aimed at, in my free time from my main job
 
 <!--
 **IgorNovozhilov/IgorNovozhilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
