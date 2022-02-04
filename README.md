@@ -1,4 +1,6 @@
-Hi there world!👋 I'm a senior web-developer and small working group tech-lead in one large russian IT-company [\*](https://tensor.ru/)
+Hi there world!👋 I'm a senior web-developer and small working group tech-lead in one large russian IT-company <a href="https://tensor.ru" target="_blank"/>*</a>
+
+
 
 > My hobby is open-source web development, which is what my activity in the GitHub community is aimed at, in my free time from my main job
 
